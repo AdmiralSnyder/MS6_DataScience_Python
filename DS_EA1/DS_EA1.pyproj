@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d7ec0d47-d954-4ad7-902b-af44c937315b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>DS_EA1.py</StartupFile>
+    <StartupFile>DS_EA1_Q1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="DS_EA1.py" />
+    <Compile Include="DS_EA1_Q1.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="country.csv" />
+    <Content Include="DS_EA1_Q2.ipynb" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
