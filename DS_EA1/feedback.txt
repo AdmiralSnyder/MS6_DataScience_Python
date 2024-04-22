@@ -1,0 +1,3 @@
+Very detail business explanation, hope you could find the right people and expand to different languages.
+
+since you are changing from desktop to browser, have you thought about hiring someone to managing data in cloud? In that case, data engineer/cloud engineer could help 
