@@ -68,3 +68,5 @@ print(getSortedIndexesUsingNumpy(values[0]))
 # getSortedIndexesUsingNumpy with 7 values  took 0.0 seconds
 # getSortedIndexesUsingNumpy with 0 values  took 0.0 seconds
 # getSortedIndexesUsingNumpy with 1000000 values  took 0.1756744384765625 seconds
+
+print("numpy is wayyy faster.")
